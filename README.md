@@ -9,6 +9,8 @@ Warp Gate is a system-agnostic library module for Foundry VTT that provides a gr
 
 [Warp Gate Player Spawning Demo](https://user-images.githubusercontent.com/14878515/127940403-40301919-8a12-42e0-b3c4-7711f6e64b3b.mp4)
 
+This fork is built on top of the last warpgate project licenced under GPL and the last warpgate.js file licenced under GPL.
+
 ## Quick Links
 - [Warp Gate Wiki and Examples](https://github.com/trioderegion/warpgate/wiki)
 - [API Documentation](https://trioderegion.github.io/warpgate/warpgate.html)

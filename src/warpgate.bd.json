@@ -1,4 +1,5 @@
 {
+  "id": "warpgate",
   "version": "x",
   "title": "Warp Gate",
   "description": "Library module providing system-agnostic functions for creating tokens, modifying and reverting actors, canvas interactions, peer-to-peer hooks, and more. Warp Gate makes your life easier and your code safer.",
